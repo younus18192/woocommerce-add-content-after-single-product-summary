@@ -1,0 +1,1 @@
+# woocommerce-add-content-after-single-product-summary
